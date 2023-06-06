@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+
+**Principal Architect by day, Rust enthusiast by night.**
 
 <!--
 **Leandros/leandros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
